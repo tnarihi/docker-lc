@@ -1,0 +1,1 @@
+FROM tnarihi/dl-base:cuda8.0
